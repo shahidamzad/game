@@ -5,7 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #808080;
+    background-color: rgba(255, 255, 255, 0.7);
 }
 
 .container {
@@ -60,6 +60,7 @@ body {
 .card img {
     width: 150px;
     height: 150px;
+     border-radius: 10px;
 }
 
 #refreshButton {
