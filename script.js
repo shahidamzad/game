@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', () => {
             card.innerHTML =`
                 <div class="card-inner">
                     <div class="card-front">
-                        <img src="https://imgs.search.brave.com/N2oGAnNuUQFjfbKcwroHxaAgTawwqEDXwava3F4N57g/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9qcGd0/b3BuZ2NvbnZlcnRl/ci5jb20vaW1nL2Zh/dmljb24ucG5n" alt="Card Image">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Solid_grey.svg/2048px-Solid_grey.svg.png" alt="Card Image">
                     </div>
                     <div class="card-back ${colors[i] === 'red' ? 'red' : ''}">
                         <img src="https://imgs.search.brave.com/uIDi6k_hwxUcdw62euUq4HFdduqmnuK_X3F6eRv2ngI/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAxNi8w/NC9EaWFtb25kLVBO/Ry1QaWN0dXJlLnBu/Zw" alt="">
